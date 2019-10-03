@@ -16,7 +16,7 @@ SESSION:DATA-ENTRY-RETURN = TRUE.
 UPDATE ccodigo
        ccomprobante WITH FRAME a FONT 14 1 COL CENTERED ROW 5
        .
-
+22121212121
 FIND FIRST conta WHERE
            conta.codigo  = ccodigo AND
            conta.comprobante = ccomprobante NO-LOCK NO-ERROR.
